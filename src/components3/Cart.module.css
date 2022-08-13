@@ -1,0 +1,36 @@
+.cartbtn {
+  background-color: transparent;
+  border: 2px solid transparent;
+}
+.carteditpart {
+  align-items: flex-end;
+  align-content: flex-end;
+  text-align: right;
+  color: orange;
+}
+
+.linediv {
+  margin: 2rem auto;
+  width: 95%;
+  height: 0.2rem;
+  background-color: #707070;
+}
+
+.btncartdiv {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.savecart {
+  margin: 1rem auto;
+  background-color: orange;
+  color: white;
+  border: 1px solid orange;
+  width: 11rem;
+  height: 2.5rem;
+  border-radius: 5px;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+}

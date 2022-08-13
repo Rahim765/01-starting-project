@@ -1,0 +1,37 @@
+.struct {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin: 0rem auto;
+  border-radius: 15px;
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.27);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.6px);
+  -webkit-backdrop-filter: blur(6.6px);
+  border: 1px solid rgba(255, 255, 255, 0.29);
+  
+  height: 90rem;
+  width: 60rem;
+  color: black;
+}
+
+.part {
+  position: relative;
+  flex-direction: row;
+  margin: 0rem auto;
+  border-radius: 15px;
+
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.78);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(0px);
+  -webkit-backdrop-filter: blur(0px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+
+  height: 31rem;
+  width: 40rem;
+  color: black;
+}

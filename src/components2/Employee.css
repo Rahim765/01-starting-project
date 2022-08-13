@@ -1,0 +1,89 @@
+.empdiv {
+  font-family: "iran-sans";
+  display: flex;
+  flex-direction: column;
+
+  margin: 1rem auto;
+  width: 20rem;
+  height: 14rem;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+}
+
+.empicon {
+  margin-left: 8.5rem;
+  margin-top: -1rem;
+  box-shadow: 0px 2px 3px black;
+}
+
+.pericon {
+  display: flex;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  align-items: center;
+  align-content: center;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 0px 2px 3px rgb(79, 77, 77);
+}
+
+.empinfo {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 3rem auto;
+}
+
+.int {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-right: 1.5rem;
+  margin-bottom: 2rem;
+  margin-left: 0.6rem;
+  align-items: center;
+  align-content: center;
+}
+.lbl {
+  margin-right: 0.5rem;
+}
+
+.int2 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: 6rem;
+  margin-bottom: 0rem;
+  align-items: center;
+  align-content: center;
+}
+
+.iconsize {
+  width: 4rem;
+  height: 3rem;
+  position: fixed;
+}
+
+.delEdi {
+  display: flex;
+  flex-direction: row;
+  width: 55%;
+  margin: 0rem auto;
+  justify-content: space-between;
+}
+
+.firbtn {
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  border: 1px solid red;
+}
+
+.secbtn {
+  background-color: #36aac4;
+  border: 1px solid #36aac4;
+  color: white;
+  border-radius: 5px;
+}

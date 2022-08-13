@@ -1,0 +1,91 @@
+.useinf {
+  width: 65%;
+  border-radius: 10px;
+  margin: 4rem auto;
+  background-color: #efefef;
+  padding: 2rem;
+}
+
+.centit {
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.percon {
+  margin: 1rem auto;
+  display: flex;
+  width: 70%;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: flex-end;
+  align-content: flex-end;
+  text-align: right;
+}
+
+.percon2 {
+  margin: 1rem auto;
+  display: flex;
+  width: 70%;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: flex-end;
+  align-content: flex-end;
+  text-align: right;
+}
+
+.infla {
+  display: block;
+  margin-bottom: 0.5rem;
+  margin-right: 1rem;
+}
+
+.infinput {
+  background-color: white;
+  border: 1px solid white;
+  width: 11rem;
+  height: 2rem;
+  padding: 0.2rem;
+  text-align: right;
+}
+
+.userinp {
+  background-color: white;
+  border: 1px solid white;
+  width: 24rem;
+  height: 2rem;
+  padding: 0.2rem;
+  text-align: left;
+}
+
+.infbut {
+  margin: 1rem auto;
+  display: flex;
+  width: 60%;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: flex-end;
+  align-content: flex-end;
+  text-align: right;
+}
+
+.editinfobut {
+  background-color: orange;
+  border: 1px solid orange;
+  color: white;
+  border-radius: 5px;
+  height: 3rem;
+  width: 9rem;
+  margin: 1rem auto;
+}
+
+.exitinfbut {
+  background-color: white;
+  color: orange;
+  border: 1px solid orange;
+  border-radius: 5px;
+  height: 3rem;
+  width: 9rem;
+  margin: 1rem auto;
+}

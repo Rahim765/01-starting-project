@@ -1,0 +1,59 @@
+.chartinf {
+  display: flex;
+  flex-direction: row;
+  width: 95%;
+  margin: 1rem auto;
+  color: #58508d;
+  font-family: "iran-sans";
+  font-weight: bold;
+  font-size: 25;
+  margin: 3rem auto;
+}
+
+.charttit {
+  width: 33%;
+  text-align: right;
+}
+
+.midchart {
+  margin-left: 4rem;
+  display: flex;
+  flex-direction: row;
+  width: 33%;
+  text-align: right;
+  justify-content: space-between;
+}
+.maljan {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+  margin-right: 0.5rem;
+}
+
+#mali {
+  width: 1rem;
+  height: 1rem;
+  background-color: transparent;
+  border: 4px solid #bc5090;
+  border-radius: 10px;
+  margin-right: 0.3rem;
+}
+#jani {
+  width: 1rem;
+  height: 1rem;
+  background-color: transparent;
+  border: 4px solid #ff6361;
+  border-radius: 10px;
+  margin-right: 0.3rem;
+}
+
+.malicol {
+  color: #bc5090;
+}
+.janicol {
+  color: #ff6361;
+}
+.goldcol {
+  color: #ffa600;
+}

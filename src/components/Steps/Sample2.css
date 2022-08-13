@@ -1,0 +1,16 @@
+.sec {
+  margin: 0rem auto;
+  background-color: transparent;
+  height: 6rem;
+  width: 45rem;
+  font-family: "iran-sans";
+}
+.cn {
+  background-color: transparent;
+}
+
+.des {
+  color: orange;
+  text-emphasis-color: orange;
+  font-family: "iran-sans";
+}

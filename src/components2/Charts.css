@@ -1,0 +1,38 @@
+#first {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 3rem;
+  color: #58508d;
+}
+
+.drops {
+  display: flex;
+  flex-direction: row;
+  width: 60%;
+  justify-content: space-between;
+}
+
+.report {
+  font-size: 1rem;
+}
+
+.divdrop {
+  display: flex;
+  flex-direction: row;
+  width: 45%;
+  justify-content: space-between;
+}
+
+.cartdiv {
+  width: 50%;
+  color: rgb(228, 111, 22);
+  font-size: large;
+  margin-right: 2rem;
+}
+#second {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 3rem;
+}

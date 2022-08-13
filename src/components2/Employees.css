@@ -1,0 +1,18 @@
+.allemp {
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+  margin: 4rem auto;
+  flex-wrap: wrap;
+  font-family: "iran-sans";
+}
+
+.pages {
+  color: rgb(255, 119, 1);
+}
+
+.pagesbar {
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+}
